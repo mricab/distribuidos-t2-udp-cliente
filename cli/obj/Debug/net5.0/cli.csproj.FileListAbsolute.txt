@@ -1,0 +1,15 @@
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/cli.deps.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/cli.runtimeconfig.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/cli.runtimeconfig.dev.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/cli.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/ref/cli.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/bin/Debug/net5.0/cli.pdb
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.csprojAssemblyReference.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.AssemblyInfoInputs.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.AssemblyInfo.cs
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.csproj.CoreCompileInputs.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/ref/cli.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.pdb
+/Users/marce/Proyectos/Distribuidos/T2 UDP/cliente/cli/obj/Debug/net5.0/cli.genruntimeconfig.cache
