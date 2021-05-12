@@ -1,7 +1,6 @@
-## distribuidos-t2-udp-cliente
-## distribuidos-t2-udp-servidor
+# distribuidos-t2-udp-cliente
 
-Tarea#2 - Sistemas Distribuidos - Sockets UDP
+# Tarea#2 - Sistemas Distribuidos - Sockets UDP
 
 En este trabajo se implementarón dos soluciones que implmentan la arquitectura Cliente-Servidor y los Sockets UDP con C#.
 
